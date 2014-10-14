@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct 12 15:42:03 2014
-
 @author: willem
 """
 
